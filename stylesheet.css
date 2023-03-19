@@ -1,0 +1,41 @@
+#koptext{
+border-style: solid;
+border: 1%;
+border-color: rgba(211, 211, 211, 0);
+font-size: larger;
+padding: 5%;
+justify-content: flex-end;
+justify-content: center;
+display: flex;
+width: 100;
+background-color: rgb(76, 131, 122);
+border-radius: 10%;
+font-size: 100%;
+}
+body{
+    background-color: rgb(225, 221, 191);
+    
+}
+.top {
+    width: 30%;
+    height: 100%;
+    padding: 10%;
+    background-color: rgb(76, 131, 122);
+    border:  solid black;
+    margin: 1%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+}
+#top {
+    display: flex;
+    background-color: rgba(245, 245, 245, 0);
+    justify-content: center;
+    min-height: 2%;
+    align-items: center;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+ 
